@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Matte Spill</string>
+    <string name="start_spill">Start spill 🎮</string>
+    <string name="om_spillet">Om spillet 🎲</string>
+    <string name="preferanser">Preferanser ⚙️</string>
+    <string name="matte_spill_tittel">Matte Spill</string>
+
+    <!-- SpillSide strenger -->
+    <string name="avslutt_spill_knapp">Avslutt</string>
+    <string name="ingen_sporsmal">Ingen spørsmål</string>
+    <string name="sjekk_svar_knapp">Sjekk Svar</string>
+
+    <!-- Tilbakemeldinger - Riktig svar -->
+    <string name="riktig_tilbakemelding_1">Bra jobbet! Du svarte riktig! 🙂</string>
+    <string name="riktig_tilbakemelding_2">Strålende innsats! 🤩</string>
+    <string name="riktig_tilbakemelding_3">Flott løst, det der satt som et skudd! 🎯</string>
+    <string name="riktig_tilbakemelding_4">Riktig svar, fortsett sånn! 💪</string>
+
+    <!-- Tilbakemeldinger - Feil svar -->
+    <string name="feil_tilbakemelding_1">Oops, dette var ikke riktig svar 😬</string>
+    <string name="feil_tilbakemelding_2">Ikke helt riktig, prøv igjen! 🔄🙂</string>
+    <string name="feil_tilbakemelding_3">Nesten! Du får det til neste gang 💪</string>
+    <string name="feil_tilbakemelding_4">Det var dessverre feil, men stå på! 🤔🤗</string>
+
+    <!-- Spill slutt / Avbryt dialoger -->
+    <string name="spill_ferdig_tittel">Spillet er ferdig! 🎉</string>
+    <string name="spill_ferdig_melding">Gratulerer, du har fullført alle oppgavene!</string>
+    <string name="avslutt_spill_dialog_tittel">Avslutt spill? 🤔</string>
+    <string name="avslutt_spill_dialog_melding">Er du sikker på at du vil avslutte?</string>
+    <string name="start_paa_nytt_knapp">Start på nytt</string>
+    <string name="avslutt_knapp">Avslutt</string>
+    <string name="fortsett_spill_knapp">Fortsett spill</string>
+
+    <!-- Feil svar dialog -->
+    <string name="feil_svar_dialog_tittel">Feil Svar</string>
+    <string name="prov_igjen_knapp">Prøv igjen</string>
+
+    <!-- Riktig svar dialog -->
+    <string name="riktig_svar_dialog_tittel">Riktig Svar!</string>
+
+    <!-- PrefSide strenger -->
+    <string name="preferanser_tittel">Preferanser</string>
+    <string name="lagre_knapp">Lagre</string>
+    <string name="velg_antall_oppgaver">Velg hvor mange oppgaver  du vil gjøre</string>
+
+    <!-- InfoSide strenger -->
+    <string name="om_spillet_tittel">Om spillet</string>
+    <string name="info_tekst_1">Her kan du ha det gøy mens du øver på regning! 🤩🧮</string>
+    <string name="info_tekst_2">Trykk på knappene og finn riktig svar. Hvor mange klarer du? 🤔</string>
+    <string name="hjem_knapp">Hjem</string>
+    <string name="neste_oppgave_knapp">Neste oppgave</string>
+
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mathe-Spiele</string>
+    <string name="start_spill">Spiel starten 🎮</string>
+    <string name="om_spillet">Über das Spiel 🎲</string>
+    <string name="preferanser">Einstellungen ⚙️</string>
+    <string name="matte_spill_tittel">Mathe-Spiele</string>
+    <string name="avslutt_spill_knapp">Ausfahrt</string>
+    <string name="ingen_sporsmal">Keine Fragen</string>
+    <string name="sjekk_svar_knapp">Antwort prüfen</string>
+    <string name="riktig_tilbakemelding_1">Gute Arbeit! Sie haben richtig geantwortet! 🙂</string>
+    <string name="riktig_tilbakemelding_2">Geniale Leistung! 🤩</string>
+    <string name="riktig_tilbakemelding_3">Tolle Lösung, das hat wunderbar funktioniert! 🎯</string>
+    <string name="riktig_tilbakemelding_4">Richtige Antwort, weiter so! 💪</string>
+    <string name="feil_tilbakemelding_1">Ups, das war nicht die richtige Antwort. 😬</string>
+    <string name="feil_tilbakemelding_2">Nicht ganz richtig, versuchen Sie es erneut! 🔄🙂</string>
+    <string name="feil_tilbakemelding_3">Fast! Das nächste Mal klappt es 💪</string>
+    <string name="feil_tilbakemelding_4">Das war leider falsch, aber weiter so! 🤔🤗</string>
+    <string name="spill_ferdig_tittel">Das Spiel ist vorbei! 🎉</string>
+    <string name="spill_ferdig_melding">Herzlichen Glückwunsch, Sie haben alle Aufgaben erledigt!</string>
+    <string name="avslutt_spill_dialog_tittel">Spiel beenden? 🤔</string>
+    <string name="avslutt_spill_dialog_melding">Möchten Sie wirklich aufhören?</string>
+    <string name="start_paa_nytt_knapp">Neustart</string>
+    <string name="avslutt_knapp">Ausfahrt</string>
+    <string name="fortsett_spill_knapp">Weiterspielen</string>
+    <string name="feil_svar_dialog_tittel">Falsche Antwort</string>
+    <string name="prov_igjen_knapp">Versuchen Sie es erneut</string>
+    <string name="riktig_svar_dialog_tittel">Richtige Antwort!</string>
+    <string name="neste_oppgave_knapp">Nächste Aufgabe</string>
+    <string name="preferanser_tittel">Einstellungen</string>
+    <string name="lagre_knapp">Fertig</string>
+    <string name="velg_antall_oppgaver">Wähle, wie viele Aufgaben du machen willst</string>
+    <string name="om_spillet_tittel">Über das Spiel</string>
+    <string name="info_tekst_1">Hier kannst du spielerisch das Rechnen üben! 🤩🧮</string>
+    <string name="info_tekst_2">Drücken Sie die Tasten und finden Sie die richtige Antwort. Wie viele können Sie erraten? 🤔</string>
+    <string name="hjem_knapp">Heim</string>
+</resources>
